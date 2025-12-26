@@ -6,6 +6,7 @@
 1. Файл `docker-compose.yml` с определением всех сервисов (webapp, cadvisor, prometheus, grafana)
    
 <img width="1224" height="951" alt="image" src="https://github.com/user-attachments/assets/de96e108-722b-4f38-a6fb-76abcaca9bed" />
+
 3. Файл `prometheus.yml` для конфигурации Prometheus
 
 <img width="395" height="303" alt="image" src="https://github.com/user-attachments/assets/60ffe034-a8ce-491f-9dad-e254ba4522a9" />
@@ -22,8 +23,8 @@
 
 <img width="1280" height="367" alt="image" src="https://github.com/user-attachments/assets/69ab4cef-9820-4d58-9a1f-0ed56f238480" />
 
-4. Выполние тестового запроса:
-5. 
+ Выполние тестового запроса:
+ 
 <img width="1280" height="654" alt="image" src="https://github.com/user-attachments/assets/485f9ac0-ce92-4a3a-a982-b34714210172" />
 
 ## Этап 5: Подключение Grafana к Prometheus
